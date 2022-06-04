@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Open Sans", sans-serif;
+}
+
+.navbar {
+    background-color: #e83e8c;
+}
+
+.navbar-brand img {
+    height: 3rem;
+}
+
+.tarjetas {
+    background-color:  #17a2b8 ;
+    font-family: "Open Sans", sans-serif ;
+    
+}
+.tarjetas h2 {
+    font-family: "Open Sans", sans-serif ;
+    font-size: 3em;
+}
+
+
+
+footer {  
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+    background: #e83e8c;
+    color: white;
+    padding: 25px;
+    height: 8em;
+
+}
+
+footer img {
+    height: 4em;
+}
